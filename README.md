@@ -17,7 +17,7 @@ Web page totalmente funcional de uma burgueria online [EM CONSTRUÇÃO]
 Passos para instalar o projeto localmente:
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/dev-burguer.git
+git clone https://github.com/lpa13/dev-burguer.git
 
 # Navegue até o diretório
 cd dev-burguer
